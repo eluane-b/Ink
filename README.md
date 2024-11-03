@@ -1,0 +1,2 @@
+# Ink
+Using Ink testnet
